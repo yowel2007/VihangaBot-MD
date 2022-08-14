@@ -22,7 +22,7 @@
 <a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
       
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
-
+</p>
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
